@@ -1,4 +1,5 @@
-# New post title here
+#Kubernetes Architecture
+
 Kubernetes Components
     - Control Plane
     - Nodes (Worker Nodes)
