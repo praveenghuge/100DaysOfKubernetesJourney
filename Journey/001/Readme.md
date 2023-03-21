@@ -4,11 +4,12 @@ Kubernetes Components
     - Control Plane
     - Nodes (Worker Nodes)
     
-    ![image](https://user-images.githubusercontent.com/33432891/226561396-e5181d2c-b5fe-4920-af48-96e1654cd5cb.png)
+    ![image]![components-of-kubernetes](https://user-images.githubusercontent.com/33432891/226561569-c0f4304b-71bf-47c4-bec3-753226740332.svg)
 
 ## Introduction
 
 Control Plane - make global decisions about the cluster(for eg, scheduling, respond to events)
+
 
 
 Components : 
